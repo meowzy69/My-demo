@@ -1,3 +1,3 @@
 # My-demo
-My first Git Repository
+My first Git Repository.
 Author - Chandrapal
